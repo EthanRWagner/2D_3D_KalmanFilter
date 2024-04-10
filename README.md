@@ -1,0 +1,1 @@
+The implementation of the Kalman Filter in 2D and 3D space is quite simple and much of the work that goes into this signal processing technique is through parameter tuning. Linked is a report outlining the analysis of parameter tuning for a Kalman filter to filter noisy GPS data of a US Navy submarine.
